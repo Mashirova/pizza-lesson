@@ -10,3 +10,13 @@
   margin-top: 0;
   font-size: 2rem;
 }
+
+.pizza__price {
+  margin-top: 2rem;
+  font-size: 1.2rem;
+  text-align: right;
+  border-bottom: 2px dotted #999;
+}
+.pizza__price span {
+  font-weight: bold;
+}
